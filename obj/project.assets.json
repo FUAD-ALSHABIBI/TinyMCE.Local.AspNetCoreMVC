@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\a.eido\\.nuget\\packages\\": {}
+    "C:\\Users\\FF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.eido\\Desktop\\richtexteditor\\RichTextEditorDemo\\RichTextEditorDemo.csproj",
+      "projectUniqueName": "D:\\Users\\FF\\Desktop\\All Tries C#\\richtext\\TinyMCE.Local.AspNetCoreMVC\\RichTextEditorDemo.csproj",
       "projectName": "RichTextEditorDemo",
-      "projectPath": "C:\\Users\\a.eido\\Desktop\\richtexteditor\\RichTextEditorDemo\\RichTextEditorDemo.csproj",
-      "packagesPath": "C:\\Users\\a.eido\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.eido\\Desktop\\richtexteditor\\RichTextEditorDemo\\obj\\",
+      "projectPath": "D:\\Users\\FF\\Desktop\\All Tries C#\\richtext\\TinyMCE.Local.AspNetCoreMVC\\RichTextEditorDemo.csproj",
+      "packagesPath": "C:\\Users\\FF\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\FF\\Desktop\\All Tries C#\\richtext\\TinyMCE.Local.AspNetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a.eido\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FF\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

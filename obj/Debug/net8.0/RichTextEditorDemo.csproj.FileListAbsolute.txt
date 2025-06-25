@@ -29,3 +29,34 @@ C:\Users\a.eido\Desktop\richtexteditor\RichTextEditorDemo\obj\Debug\net8.0\refin
 C:\Users\a.eido\Desktop\richtexteditor\RichTextEditorDemo\obj\Debug\net8.0\RichTextEditorDemo.pdb
 C:\Users\a.eido\Desktop\richtexteditor\RichTextEditorDemo\obj\Debug\net8.0\RichTextEditorDemo.genruntimeconfig.cache
 C:\Users\a.eido\Desktop\richtexteditor\RichTextEditorDemo\obj\Debug\net8.0\ref\RichTextEditorDemo.dll
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\appsettings.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\RichTextEditorDemo.staticwebassets.runtime.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\RichTextEditorDemo.exe
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\RichTextEditorDemo.deps.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\RichTextEditorDemo.runtimeconfig.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\RichTextEditorDemo.dll
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\bin\Debug\net8.0\RichTextEditorDemo.pdb
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.AssemblyInfoInputs.cache
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.AssemblyInfo.cs
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.csproj.CoreCompileInputs.cache
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.RazorAssemblyInfo.cache
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.RazorAssemblyInfo.cs
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.sourcelink.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.RichTextEditorDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.RichTextEditorDemo.props
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RichTextEditorDemo.props
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RichTextEditorDemo.props
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\scopedcss\bundle\RichTextEditorDemo.styles.css
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\scopedcss\projectbundle\RichTextEditorDemo.bundle.scp.css
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.dll
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\refint\RichTextEditorDemo.dll
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.pdb
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\RichTextEditorDemo.genruntimeconfig.cache
+D:\Users\FF\Desktop\All Tries C#\richtext\TinyMCE.Local.AspNetCoreMVC\obj\Debug\net8.0\ref\RichTextEditorDemo.dll

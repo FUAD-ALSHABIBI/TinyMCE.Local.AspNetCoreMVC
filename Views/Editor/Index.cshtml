@@ -1,0 +1,26 @@
+@model RichTextEditorDemo.Models.PostViewModel
+
+<h2>Rich Text Editor (TinyMCE)</h2>
+
+<form method="post">
+    <textarea id="editor" name="Content">@Model.Content</textarea>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color: green">@ViewBag.Message</p>
+}
+
+<!-- Load TinyMCE from local -->
+<script src="~/lib/tinymce/tinymce.min.js"></script>
+<script>
+    tinymce.init({
+        selector: '#editor',
+        height: 400,
+        plugins: 'lists link table code',
+        toolbar: 'undo redo | bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link unlink | image | table | code | formatselect | fontselect fontsizeselect | forecolor backcolor | hr',
+        branding: false
+    });
+</script>
